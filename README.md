@@ -1,4 +1,3 @@
-# ToDo-List
 # ToDo List using JavaScript, HTML and CSS
 
 ![](RackMultipart20201020-4-ewtzpk_html_9225dd993e07092.png)
