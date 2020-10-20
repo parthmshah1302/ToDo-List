@@ -5,7 +5,7 @@
 
 You can add your pending tasks in the input box
 
-![](RackMultipart20201020-4-ewtzpk_html_b30052caeaa5731d.png)
+![alt text](https://github.com/parthmshah1302/ToDo-List/blob/master/Screenshots/2.png)
 
 When you complete a task, you can single-click on the task name.
 
