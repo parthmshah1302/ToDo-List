@@ -1,6 +1,7 @@
 # ToDo List using JavaScript, HTML and CSS
 
-![](RackMultipart20201020-4-ewtzpk_html_9225dd993e07092.png)
+![alt text](https://github.com/parthmshah1302/ToDo-List/blob/master/Screenshots/1.png?raw=true)
+
 
 You can add your pending tasks in the input box
 
