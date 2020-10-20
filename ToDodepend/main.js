@@ -7,12 +7,12 @@ addToDoButton.addEventListener('click',function(){
     paragraph.innerText=inputField.value;
     paragraph.classList.add('paragraph-styling')
     todoContainer.appendChild(paragraph);
-    paragraph.style.color="red";
+    paragraph.style.color="yellow";
     
     inputField.value="";
     paragraph.addEventListener('click',function(){
         paragraph.style.textDecoration="line-through";
-        paragraph.style.color="green";
+        paragraph.style.color="lightgreen";
 
     })
     paragraph.addEventListener('dblclick',function(){
