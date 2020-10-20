@@ -56,6 +56,7 @@ html, body{
     font-size: 20px;
 }
 .footer{
+    margin-bottom: 15px;
     position: fixed;
     left: 0;
     bottom: 0;
