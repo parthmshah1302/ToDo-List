@@ -1,7 +1,7 @@
 # ToDo List using JavaScript, HTML and CSS
-<p align="center" href="https://parthmshah1302.github.io/ToDo-List/">Play around the webapp yourself</p>
-![alt text](https://github.com/parthmshah1302/ToDo-List/blob/master/Screenshots/1.png)
+<p align="center" style="font-size:160%;"><b><a  href="https://parthmshah1302.github.io/ToDo-List/"> Play around the webapp yourself</b></a></p>
 
+![alt text](https://github.com/parthmshah1302/ToDo-List/blob/master/Screenshots/1.png)
 
 You can add your pending tasks in the input box
 
