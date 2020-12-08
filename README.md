@@ -1,5 +1,5 @@
 # ToDo List using JavaScript, HTML and CSS
-![Play around the webapp yourself](https://parthmshah1302.github.io/ToDo-List/)
+<p align="center" href="https://parthmshah1302.github.io/ToDo-List/">Play around the webapp yourself</p>
 ![alt text](https://github.com/parthmshah1302/ToDo-List/blob/master/Screenshots/1.png)
 
 
